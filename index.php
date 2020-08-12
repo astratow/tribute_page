@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+<meta charset="UTF-8">
+	<title id="title">Nikolai Gogol - Tribute Page</title>
+	<!--<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js" defer></script>-->
+<style>
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	
+}
+</style>
+</head>
+<body>
+<?php echo '<div id="main" align="center">
+<h1>Николай Васильевич Гоголь</h1>
+<figure id="img-div">
+<img src="https://rinatim.files.wordpress.com/2016/11/gogol.jpg?w=600" id="image" alt="Nikolai Gogol - portret">
+<br>
+<fgcaption id="img-caption">
+Николай Васильевич Гоголь, portret
+</fgcaption>
+<div id="tribute-info">
+<h2>Life of Nikolai Vasilievich Gogol</h2>
+<b>
+<p>
+1.04.1809 - Nikolai Vasilievich Gogol was born in Cossacks family
+</p><p>
+31.03.1825 - <a href="https://en.wikipedia.org/wiki/Vasili_Gogol-Yanovsky" target="_blank">Father of our hero</a> died just day before young mans sixteen birthday
+</p><p>
+1820-1828 - Nikolai Vasilievich went to school of higher art in Nizhnyn
+</p><p>
+1828 - Gogol moved to capital of Russia, Saint Petersburg
+</p><p>
+1831 - Nikolai Vasilievich meets greates Russian poet of the era, <a href="https://en.wikipedia.org/wiki/Alexander_Pushkin" target="_blank">Alexander Pushkin</a>
+</p><p>
+1831 - Gogols succesful debut - volumne of Ukrainian stories "Evenings on
+     a Farm Near Dikanka"
+</p><p>
+1835 - publishes two volumnes of Mirgorod
+</p><p>
+19.04.1836 - premier of "The Government Inspector"  on stage of State Theatre in Saint Petersburg
+</p><p>
+1836-1848 - Gogol travelled and lived abroad - in Germany, Switzerland, France
+</p><p>
+1842 - publication of "Death Souls" 
+</p><p>
+24.02.1852 - Nikolai Vasilievich buried his manuscrupts
+</p><p>
+4.03.1852 - Gogol died
+</b>
+</p>
+<h2>
+Links
+</h2>
+<p>
+<a href="https://rinatim.com/2016/11/19/nikolay-gogol-a-mystical-life-of-the-great-master/" target="_blank" id="tribute-link">Nikolay Gogol: Mystical Life of the Great Master</a>
+</p><p>
+<a href="https://en.wikipedia.org/wiki/Nikolai_Gogol" target="_blank" id="tribute-link">Nikolai Gogol on Wikipedia</a>
+</p>
+</div>
+
+</figure>
+</div>';
+?>
+</body>
+</html>
