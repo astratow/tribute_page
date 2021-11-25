@@ -1,0 +1,18 @@
+/*style.css*/
+
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	
+}
+a {
+  color: green;
+  text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+a:visited{
+	color: green;
+}
